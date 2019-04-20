@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyInterfaces</string>
+    <string name="btnThrowJab">Throw Jab</string>
+    <string name="btnKickJab">Throw Jab</string>
+    <string name="txtBoxer">I am a Boxer</string>
+    <string name="txtKickBoxer">I am a KickBoxer</string>
+
+    <string name="btnBoxerCross">Throw Cross</string>
+    <string name="btnKickCross">Throw Cross</string>
+
+    <string name="btnBoxerCut">Throw Cut</string>
+    <string name="btnKickCut">Throw Cut</string>
+
+    <string name="btnBoxerHook">Throw Hook</string>
+    <string name="btnKickHook">Throw Hook</string>
+</resources>
